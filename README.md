@@ -24,6 +24,7 @@ Pushbrief uygulamasını kullanabilmek için GitHub hesabınıza yüklemeniz ger
 
 ### 3️⃣ Plan ve Limitler
 > Şimdilik geçerli olmayacaktır.
+
 | Plan | Repo Sayısı | Takım Üyesi | Aylık Analiz Hakkı | Veri Saklama Süresi |
 |------|------------|-------------|--------------------|------------------|
 | Ücretsiz | 1 | 1 | 5 | 7 gün |
