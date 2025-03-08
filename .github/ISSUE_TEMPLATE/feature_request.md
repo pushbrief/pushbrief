@@ -1,9 +1,9 @@
 ---
 name: "✨ Feature Request"
-about: "Yeni bir özellik önerisi yapmak için bu şablonu kullanın."
+about: Yeni bir özellik önerisi yapmak için bu şablonu kullanın.
 title: "[Feature] Kısa ve açıklayıcı bir başlık"
 labels: enhancement
-assignees: ""
+assignees: ''
 
 ---
 

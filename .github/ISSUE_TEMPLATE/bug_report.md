@@ -1,9 +1,9 @@
 ---
-name: "🐞 Bug Report"
-about: "Bir hata bildirmek için bu şablonu kullanın."
+name: "\U0001F41E Bug Report"
+about: Bir hata bildirmek için bu şablonu kullanın.
 title: "[BUG] Kısa ve açıklayıcı bir başlık"
 labels: bug
-assignees: ""
+assignees: ''
 
 ---
 
